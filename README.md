@@ -1,2 +1,2 @@
-# holdread.github.io
+# thankscode.github.io
 holdread.com
